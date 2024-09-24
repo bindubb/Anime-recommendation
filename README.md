@@ -1,6 +1,11 @@
 #Anime Recommendation System
 
 
+![Screenshot (149)](https://github.com/user-attachments/assets/809de3e3-8415-4743-8501-ba10557394c6)
+![Screenshot (150)](https://github.com/user-attachments/assets/d1f9b96c-4280-48c8-b81b-4dbdd4a5b4a7)
+
+
+
 This Anime Recommendation System is built using Cosine Similarity to provide personalized recommendations based on user preferences. The system calculates the similarity between different anime titles and recommends shows that are most similar to the user's watched list or selected preferences.
 
 *Features:
@@ -27,6 +32,4 @@ Pandas, NumPy (for data manipulation)
 Streamlit (for the web application)
 Feel free to explore the app, clone the repository  or raise issues if you encounter any!
 
-![Screenshot (149)](https://github.com/user-attachments/assets/809de3e3-8415-4743-8501-ba10557394c6)
-![Screenshot (150)](https://github.com/user-attachments/assets/d1f9b96c-4280-48c8-b81b-4dbdd4a5b4a7)
 
