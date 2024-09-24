@@ -26,3 +26,7 @@ Cosine Similarity
 Pandas, NumPy (for data manipulation)
 Streamlit (for the web application)
 Feel free to explore the app, clone the repository  or raise issues if you encounter any!
+
+![Screenshot (149)](https://github.com/user-attachments/assets/809de3e3-8415-4743-8501-ba10557394c6)
+![Screenshot (150)](https://github.com/user-attachments/assets/d1f9b96c-4280-48c8-b81b-4dbdd4a5b4a7)
+
