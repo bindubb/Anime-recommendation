@@ -1,4 +1,6 @@
 #Anime Recommendation System
+
+
 This Anime Recommendation System is built using Cosine Similarity to provide personalized recommendations based on user preferences. The system calculates the similarity between different anime titles and recommends shows that are most similar to the user's watched list or selected preferences.
 
 *Features:
